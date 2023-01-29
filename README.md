@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 💚 Love Vue.js
+- 🧰 Fullstack developer (Using Vue, Nuxt, React, Next, Django, Gin, Laravel)
 - 🌱 I’m currently learning Rust language and Django framework
 - 💬 I'm making tutorial for beginners of Web frontend development
 
